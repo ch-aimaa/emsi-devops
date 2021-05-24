@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# CREATE SSH KEY PAIR
+ssh-keygen -t rsa -b 4096 -f holberton -N betty
